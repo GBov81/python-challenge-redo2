@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/GBov81/python-challenge-redo/main/Resources/election_data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/GBov81/python-challenge-redo2/main/PyPoll/Resources/election_data.csv')
 
 print("Election Results:") 
 print("------------------------------")

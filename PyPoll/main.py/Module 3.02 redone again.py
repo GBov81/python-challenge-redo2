@@ -1,7 +1,5 @@
-# Import the pandas library
+# # Import the pandas library and read election data from a URL into a DataFrame 'df'.
 import pandas as pd
-
-# Read the election data from a URL and store it in a DataFrame
 df = pd.read_csv('https://raw.githubusercontent.com/GBov81/python-challenge-redo2/main/PyPoll/Resources/election_data.csv')
 
 # Print the header for the election results

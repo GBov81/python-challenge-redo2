@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/GBov81/python-challenge-redo/main/Resources/budget_data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/GBov81/python-challenge-redo2/main/PyBank/Resources/budget_data.csv')
 
 print("Financial Analysis:")
 print("------------------------------")
